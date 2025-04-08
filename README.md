@@ -2,7 +2,7 @@
 # AIM:
 To perform linear block code using python.
 # TOOLS REQUIRED:
-  IDE python with scipy and numpy
+IDE python with scipy and numpy
 # PROGRAM:
 ```
 import numpy as np
